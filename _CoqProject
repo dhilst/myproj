@@ -1,0 +1,5 @@
+-R src MyProj
+-arg -impredicative-set
+
+src/Foo.v
+src/Bar.v
